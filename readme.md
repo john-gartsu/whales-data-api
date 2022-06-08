@@ -6,3 +6,8 @@ Steps to reproduce:
 
 2. activate venv on mac:
 > . venv/bin/activate
+
+3. installed fastapi
+> pip install fastapi
+> pip install uvicorn
+
